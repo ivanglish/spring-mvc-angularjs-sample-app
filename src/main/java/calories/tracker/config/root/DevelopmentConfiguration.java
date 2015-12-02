@@ -38,7 +38,7 @@ public class DevelopmentConfiguration {
         dataSource.setDriverClassName("org.postgresql.Driver");
         dataSource.setUrl("jdbc:postgresql://localhost:5432/calorie-tracker?loglevel=0");
         dataSource.setUsername("postgres");
-        dataSource.setPassword("postgres");
+        dataSource.setPassword("Guevarax9");
         return dataSource;
     }
 
